@@ -1,0 +1,9 @@
+- [ ] Dark Mode
+    - [ ] Dark background
+    - [ ] Readable text that contrasts background colour
+- [ ] Menu bar
+    - [ ] Name of site (left side)
+    - [ ] Sublinks
+        - [ ] Blog
+        - [ ] Projects
+        - [ ] Contact Me!
