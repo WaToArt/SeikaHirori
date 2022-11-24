@@ -1,9 +1,20 @@
 - [ ] Dark Mode
     - [ ] Dark background
     - [ ] Readable text that contrasts background colour
-- [ ] Menu bar
-    - [ ] Name of site (left side)
+- [ ] Menu bar (Left to right)
+    - [ ] Name of site (redirects to homepage AKA index.html)
     - [ ] Sublinks
         - [ ] Blog
+            - [ ] Recent Blog entry
+            - [ ] Random Blog entry
         - [ ] Projects
+            - [ ] Recent project
+            - [ ] Random project
         - [ ] Contact Me!
+- [ ] index.html
+    - [ ] About Me
+        - [ ] Information
+        - [ ] Style
+- [ ] blog.html
+- [ ] projects.html
+- [ ] contact-me.html
