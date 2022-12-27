@@ -12,7 +12,7 @@
             - [ ] Random project
         - [ ] Contact Me!
     - Note:
-        - RFER 
+        - RFER 2
 - [ ] index.html
     - [ ] About Me
         - [ ] Information
