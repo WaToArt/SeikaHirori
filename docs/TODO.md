@@ -11,6 +11,8 @@
             - [ ] Recent project
             - [ ] Random project
         - [ ] Contact Me!
+    - Note:
+        - RFER 
 - [ ] index.html
     - [ ] About Me
         - [ ] Information
